@@ -33,9 +33,7 @@ coverage/
 bower_components/
 
 # Temporary files
-tmp/
-temp/
-*.tmp
+
 
 # System files
 .DS_Store
